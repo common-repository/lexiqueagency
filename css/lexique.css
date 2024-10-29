@@ -1,0 +1,73 @@
+/*
+Lexique Style :
+*/
+
+div.lexique_agency_list {
+  background-color : #d7dcde;
+  /*width : 603px;*/
+  width : 100%;
+  padding : 5px 0;
+  float:left;
+  position: relative;
+}
+div.lexique_agency_list ul li {
+  list-style: none;
+  float: left;
+  padding: 5px 0px 5px 2px;
+}
+div.lexique_agency_list ul li a {
+  border: 1px solid #D3D3D3;
+  width: 16px;
+  display: block;
+  float: left;
+  font-size: 12px;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: Arial;
+  font-weight: bold;
+  background: #ffffff;
+  color: #23488b;
+  text-decoration: none;
+}
+div.lexique_agency_list ul li a:hover,  div.lexique_agency_list ul li a:focus {
+	color:red;
+}
+  {
+  float : left;
+  width : 100%;
+}
+div.lexique_agency_result {
+  clear:both;
+  float: left;
+  margin : 20px 0 0 0;
+}
+.no_result{
+	text-align: center;
+}
+/****SEARCH FORM****/
+div.lexique_agency_search{
+  margin : 5px 5px 50px 0px;
+}
+#agency_searchform input[type="text"] {
+	padding: 3px 2px 7px 2px;
+}
+#agency_searchform input[type="submit"] {
+  font-size: 10px;
+  width: 70px;
+  height: 30px;
+  border: none;
+  cursor: pointer;
+  text-align: center;
+  color: #ccc;
+}
+/*Color button*/
+#agency_search-sbm {
+  color: white !important;
+}
+#agency_searchform .Erreur{
+	border:1px solid red;
+}
+span.agency_error{
+	color: red;
+	padding : 2px 5px 2px 5px;
+}

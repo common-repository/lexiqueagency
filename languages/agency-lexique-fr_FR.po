@@ -1,0 +1,126 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Amine BETARI\n"
+"POT-Creation-Date: 2013-07-01 16:21+0100\n"
+"PO-Revision-Date: 2013-07-01 16:21+0100\n"
+"Last-Translator: Amine <abetari@sqli.com>\n"
+"Language-Team: Agency <amine.betari@gmail.com>\n"
+"Language: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_;gettext;gettext_noop;_c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2;plural=n>2;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress-3.5-fr_FR\\wordpress\\wp-"
+"content\\plugins\\lexiqueAgency\n"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:138
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:183
+msgid "Settings Agency Glossary"
+msgstr "Réglages AgencyLexique"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:138
+msgid "Glossary Option"
+msgstr "Lexique Agency"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:173
+msgid "error seizure"
+msgstr "Erreur de la saisie"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:178
+msgid "Settings saved"
+msgstr "Les paramètres sont enregistrées"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:191
+#, fuzzy
+msgid "Minimum number of letters to search"
+msgstr "Nombre minimum de lettre pour chercher "
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:195
+msgid "Do you want to use the Ajax processing"
+msgstr "Voulez-vous utiliser le traitement Ajax"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:199
+msgid "Color button"
+msgstr "Coleur de botton"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:217
+msgid "Color Background list of letter"
+msgstr "Background de la liste des lettres"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:235
+msgid "Color Background current letter"
+msgstr "Background de la lettre courante"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:255
+msgid "Submit"
+msgstr "Valider"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:275
+msgid "Search word"
+msgstr "Recherche un mot"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:281
+msgid "You must enter more letters"
+msgstr "Vous devez saisir plus de lettres"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:402
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/lexique.php:466
+msgid "No result"
+msgstr "Pas de résultat"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/post_type.php:47
+msgid "Add new "
+msgstr "Ajouter un nouveau"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/post_type.php:48
+#, fuzzy
+msgid "Add new item "
+msgstr "Ajouter un nouveau"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/post_type.php:49
+msgid "Edit "
+msgstr "Modifier"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/post_type.php:50
+msgid "New "
+msgstr "Nouveau"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/post_type.php:51
+msgid "View "
+msgstr "Voir"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/post_type.php:52
+msgid "Search "
+msgstr "Rechercher"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/post_type.php:53
+#, php-format
+msgid "No %s found"
+msgstr "Non %s trouvé"
+
+#: C:\wamp\www\wordpress-3.5-fr_FR\wordpress\wp-content\plugins\lexiqueAgency/classes/post_type.php:54
+#, php-format
+msgid "No %s found in Trash"
+msgstr "Non %s trouvé dans la Corbeille"
+
+#~ msgid "Glossary"
+#~ msgstr "Lexique"
+
+#~ msgid "Glossaries"
+#~ msgstr "Lexiques"
+
+#~ msgid "Search for a word from"
+#~ msgstr "Rechercher un mot"
+
+#~ msgid "You want to use the treatment with Ajax"
+#~ msgstr "Voulez-vous utiliser le traitement avec ajax"
+
+#~ msgid "Lexique"
+#~ msgstr "Lexique"
+
+#~ msgid "Lexiques"
+#~ msgstr "Lexiques"
